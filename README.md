@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruifernandes0013
+- 👋 Hi, I’m Rui Fernandes
 - As a Senior NodeJS Enginer with 4+ years of experience, I specialize in building scalable web applications using AWS, GCP, and Pulumi for infrastructure as code.
   My expertise extends to crafting efficient CI/CD pipelines and developing front-end solutions with React.j, React Native and Angular fundamentals.
   I have a freelancing background on Fiverr, where I focused on developing APIs using MongoDB and Mongoose.
